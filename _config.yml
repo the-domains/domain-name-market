@@ -19,7 +19,32 @@ colors:
 name: Domain name market place
 layout_spectrum: 0.9117541022133082
 typography_spectrum: 0.748539482941851
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39a14d25-29f1-438a-9248-e4329a456ee5.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/39a14d25-29f1-438a-9248-e4329a456ee5.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: Mike Han's report for Chinese domain market every week
 description: Communicate and help each other understand the market well
 github: true
