@@ -1,0 +1,60 @@
+color:
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  brandStrength: 0.33969291765242815
+  lightness: 0.8375929312314838
+  saturation: 0.7591016879305243
+  rhythmicContrast: 0.6995436053257436
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Domain name market
+layout_spectrum: 0.9117541022133082
+typography_spectrum: 0.748539482941851
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71173de9-5eaf-48b8-9d78-9f089d11e7d4.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/71173de9-5eaf-48b8-9d78-9f089d11e7d4.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Mike Han's report for Chinese domain market every week
+description: ''
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/76798f87-2a9f-4e0f-b5cc-f64391bb0834.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/44a05ccc-9221-45fd-9a00-5b3494c5fae7.png
+content_rating:
+  adult: false
+author:
+  name: Mike Han
+  email: MichaelB9@yeah.net
+analytics:
+  twitter: ''
