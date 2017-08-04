@@ -16,7 +16,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Domain name market
+name: Domain name market place
 layout_spectrum: 0.9117541022133082
 typography_spectrum: 0.748539482941851
 content:
@@ -45,7 +45,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 title: Mike Han's report for Chinese domain market every week
-description: ''
+description: Communicate and help each other understand the market well
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/76798f87-2a9f-4e0f-b5cc-f64391bb0834.jpg
